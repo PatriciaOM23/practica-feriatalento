@@ -1,0 +1,25 @@
+tipo,id,nombre,centro,curso,departamento,organizacion,nivel
+ALUMNO,P001,Margarita Salas,IES_LUMARA,1DAM,,,EXPERTO
+ALUMNO,P002,María Zambrano,IES_LUMARA,1DAM,,,AVANZADO
+ALUMNO,P003,Clara Campoamor,IES_LUMARA,1DAM,,,BASICO
+ALUMNO,P004,María Wonenburger,IES_LUMARA,1DAM,,,EXPERTO
+ALUMNO,P005,Nuria Oliver,IES_VALLECAS,1DAM,,,AVANZADO
+ALUMNO,P006,María Blasco,IES_VALLECAS,1DAM,,,BASICO
+ALUMNO,P007,Ana María Cuervo,IES_VALLECAS,1DAM,,,AVANZADO
+ALUMNO,P008,María Moliner,IES_VALLECAS,1DAM,,,EXPERTO
+DOCENTE,P009,María A. Vallet-Regí,IES_LUMARA,,Quimica,,EXPERTO
+DOCENTE,P010,Teresa Rodrigo,IES_LUMARA,,Fisica,,AVANZADO
+DOCENTE,P011,Carme Torras,IES_LUMARA,,Informatica,,BASICO
+DOCENTE,P012,Clara Grima,IES_VALLECAS,,Matematicas,,AVANZADO
+DOCENTE,P013,Sara García Alonso,IES_VALLECAS,,Ciencias,,EXPERTO
+DOCENTE,P014,Pilar Mateo,IES_VALLECAS,,Quimica,,AVANZADO
+DOCENTE,P015,Margarita del Val,IES_VALLECAS,,Biologia,,BASICO
+DOCENTE,P016,Montserrat Calleja,IES_LUMARA,,Fisica,,EXPERTO
+INVITADO,P017,Marie Curie,Empresa_X,,,TechCorp,
+INVITADO,P018,Ada Lovelace,Empresa_Y,,,OpenSoft,
+INVITADO,P019,Grace Hopper,Empresa_Z,,,TechCorp,
+INVITADO,P020,Rosalind Franklin,Empresa_X,,,BioHub,
+INVITADO,P021,Jane Goodall,Fundacion_A,,,EduLab,
+INVITADO,P022,Hannah Arendt,Fundacion_B,,,HumanLab,
+INVITADO,P023,Simone de Beauvoir,Universidad_A,,,HumanLab,
+INVITADO,P024,Malala Yousafzai,Fundacion_C,,,EduLab,
